@@ -26,6 +26,15 @@ week,	day,	month,	year,	home,			hscore,	hmatch,	hpoint,	htotal,	away,			ascore,	
 3,	15,	7,	2023,	Bali United FC,		2,	2,	3,	3,	Madura United FC,	1,	2,	0,	4,	Kapten I Wayan Dipta, Gianyar
 3,	16,	7,	2023,	PSIS Semarang,		2,	2,	3,	6,	Persebaya Surabaya,	0,	2,	0,	4,	Jatidiri, Semarang
 3,	16,	7,	2023,	Persija Jakarta,	4,	2,	3,	5,	Bhayangkara FC,		1,	2,	0,	0,	Patriot Chandra Bhaga, Bekasi
+4,	21,	7,	2023,	Borneo FC Samarinda,	2,	2,	3,	7,	PS Barito Putera,	1,	2,	0,	7,	Segiri, Samarinda
+4,	21,	7,	2023,	PSS Sleman,		2,	2,	1,	5,	PSIS Semarang,		2,	2,	1,	7,	Maguwoharjo, Sleman
+4,	21,	7,	2023,	Dewa United FC,		3,	2,	3,	10,	Persik Kediri,		0,	2,	0,	4,	Indomilk Arena, Tangerang
+4,	21,	7,	2023,	Arema FC,		1,	2,	0,	1,	Bali United FC,		3,	2,	3,	6,	Kapten I Wayan Dipta, Gianyar
+4,	22,	7,	2023,	Persita Tangerang,	1,	2,	3,	9,	Persija Jakarta,	0,	2,	0,	5,	Indomilk Arena, Tangerang
+4,	22,	7,	2023,	PSM Makassar,		4,	2,	3,	7,	Persib Bandung,		2,	2,	0,	3,	Gelora B. J. Habibie, Pare-pare
+4,	22,	7,	2023,	Bhayangkara FC,		1,	2,	0,	0,	Persikabo 1973,		3,	2,	3,	4,	Patriot Chandra Bhaga, Bekasi
+4,	23,	7,	2023,	Persebaya Surabaya,	2,	2,	1,	5,	Rans Nusantara FC,	2,	2,	1,	7,	Gelora Bung Tomo, Surabaya
+4,	23,	7,	2023,	Madura United FC,	4,	2,	3,	7,	Persis Solo,		3,	2,	0,	4,	Gelora Madura Ratu Pamelingan, Pamekasan
 #
 #
 #home total = total points (cumulative) earned in total for team in home column
