@@ -134,6 +134,15 @@ week,	day,	month,	year,	home,			hscore,	hmatch,	hpoint,	htotal,	away,			ascore,	
 15,	8,	10,	2023,	PSM Makassar,		0,	6,	0,	18,	Madura United FC,	2,	8,	3,	30,	Gelora B. J. Habibie, Pare-pare
 15,	8,	10,	2023,	Persita Tangerang,	2,	8,	1,	15,	Persik Kediri,		2,	8,	1,	19,	Indomilk Arena, Tangerang
 15,	8,	10,	2023,	Bhayangkara FC,		1,	8,	0,	6,	Bali United FC,		2,	7,	3,	24,	Patriot Chandra Bhaga, Bekasi
+16,	20,	10,	2023,	Bali United FC,		3,	9,	3,	27,	Persebaya Surabaya,	1,	8,	0,	22,	Kapten I Wayan Dipta, Gianyar
+16,	20,	10,	2023,	Persikabo 1973,		2,	9,	0,	10,	PSIS Semarang,		3,	8,	3,	27,	Wibawa Mukti, Bekasi
+16,	20,	10,	2023,	PSM Makassar,		3,	7,	3,	21,	Arema FC,		0,	8,	0,	13,	Gelora B. J. Habibie, Pare-pare
+16,	21,	10,	2023,	Bhayangkara FC,		1,	9,	1,	7,	PS Barito Putera,	1,	9,	1,	23,	Patriot Chandra Bhaga, Bekasi
+16,	21,	10,	2023,	PSS Sleman,		2,	8,	1,	19,	Persik Kediri,		2,	9,	1,	20,	Maguwoharjo, Sleman
+16,	21,	10,	2023,	Borneo FC Samarinda,	1,	8,	1,	32,	Persib Bandung,		1,	9,	1,	28,	Segiri, Samarinda
+16,	22,	10,	2023,	Persita Tangerang,	2,	9,	3,	18,	Persis Solo,		1,	9,	0,	20,	Indomilk Arena, Tangerang
+16,	22,	10,	2023,	Madura United FC,	1,	8,	0,	30,	Dewa United FC,		4,	8,	3,	24,	Gelora Madura Ratu Pamelingan, Pamekasan
+16,	21,	10,	2023,	Persija Jakarta,	1,	9,	0,	20,	Rans Nusantara FC,	2,	8,	3,	29,	Gelora Bung Karno, Jakarta Pusat
 #
 #
 #home total = total points (cumulative) earned in total for team in home column
