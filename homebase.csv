@@ -1,19 +1,19 @@
 club,			homebase, city,				homelib, citylib,				played,	falsehome, dom
 Arema FC,		Kanjuruhan, Malang,			Kanjuruhan, Malang,				no,	Kapten I Wayan Dipta, Gianyar
 Bali United FC,		Kapten I Wayan Dipta, Gianyar,		Kapten I Wayan Dipta, Gianyar,			yes,	NaN, NaN
-Bhayangkara FC,		Patriot Chandra Bhaga, Bekasi,		Wibawa Mukti, Bekasi,				yes,	NaN, NaN
-Borneo FC Samarinda,	Segiri, Samarinda,			Segiri, Samarinda,				yes,	NaN, NaN
+Bhayangkara FC,		Patriot Chandra Bhaga, Bekasi,		Wibawa Mukti, Bekasi,				yesn,	STIK Jakarta, Jakarta Selatan
+Borneo FC Samarinda,	Segiri, Samarinda,			Segiri, Samarinda,				yesn,	Batakan, Balikpapan
 Dewa United FC,		Indomilk Arena, Tangerang,		Indomilk Arena, Tangerang,			yes,	NaN, NaN
 Madura United FC,	Gelora Bangkalan, Bangkalan,		Gelora Madura Ratu Pamelingan, Pamekasan,	yes,	NaN, NaN
-PS Barito Putera,	17 Mei, Banjarmasin,			Demang Lehman, Martapura,			yes,	NaN, NaN
-PSIS Semarang,		Citarum, Semarang,			Jatidiri, Semarang,				yes,	NaN, NaN
-PSM Makassar,		Andi Mattalatta Mattoanging, Makassar,	Gelora B. J. Habibie, Pare-pare,		yes,	NaN, NaN
-PSS Sleman,		Maguwoharjo, Sleman,			Maguwoharjo, Sleman,				yes,	NaN, NaN
+PS Barito Putera,	17 Mei, Banjarmasin,			Demang Lehman, Martapura,			yesn,	Sultan Agung, Bantul
+PSIS Semarang,		Citarum, Semarang,			Jatidiri, Semarang,				yesn,	dr. H. Moch. Soebroto, Magelang
+PSM Makassar,		Andi Mattalatta Mattoanging, Makassar,	Gelora B. J. Habibie, Pare-pare,		yesn,	Batakan, Balikpapan
+PSS Sleman,		Maguwoharjo, Sleman,			Maguwoharjo, Sleman,				yesn,	Sultan Agung, Bantul
 Persebaya Surabaya,	Gelora Bung Tomo, Surabaya,		Gelora Bung Tomo, Surabaya,			yes,	NaN, NaN
-Persib Bandung,		Gelora Bandung Lautan Api, Bandung,	Gelora Bandung Lautan Api, Bandung,		yes,	NaN, NaN
+Persib Bandung,		Gelora Bandung Lautan Api, Bandung,	Gelora Bandung Lautan Api, Bandung,		yesn,	Si Jalak Harupat, Bandung
 Persija Jakarta,	Gelora Bung Karno, Jakarta Pusat,	Patriot Chandra Bhaga, Bekasi,			yes,	NaN, NaN
 Persik Kediri,		Brawijaya, Kediri,			Brawijaya, Kediri,				yes,	NaN, NaN
 Persikabo 1973,		Pakansari, Bogor,			Pakansari, Bogor,				yesn,	Wibawa Mukti, Bekasi
 Persis Solo,		Manahan, Solo,				Manahan, Solo,					yesn,	Sriwedari, Solo
 Persita Tangerang,	Indomilk Arena, Tangerang,		Indomilk Arena, Tangerang,			yes,	NaN, NaN
-Rans Nusantara FC,	Maguwoharjo, Sleman,			Pakansari, Bogor,				yes,	NaN, NaN
+Rans Nusantara FC,	Maguwoharjo, Sleman,			Pakansari, Bogor,				yesn,	Sultan Agung, Bantul
