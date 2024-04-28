@@ -251,6 +251,51 @@ week,	day,	month,	year,	home,			hscore,	hmatch,	hpoint,	htotal,	away,			ascore,	
 28,	8,	3,	2024,	Bali United FC,		2,	15,	3,	48,	PSIS Semarang,		0,	14,	0,	46,	Kapten I Wayan Dipta, Gianyar
 28,	9,	3,	2024,	Persib Bandung,		2,	14,	3,	51,	Persija Jakarta,	1,	14,	0,	35,	Si Jalak Harupat, Bandung
 28,	9,	3,	2024,	Persis Solo,		2,	14,	3,	38,	PS Barito Putera,	1,	15,	0,	37,	Manahan, Solo
+29,	13,	3,	2024,	Persita Tangerang,	4,	15,	3,	31,	Arema FC,		3,	14,	0,	31,	Indomilk Arena, Tangerang
+29,	13,	3,	2024,	Persebaya Surabaya,	0,	14,	1,	36,	Madura United FC,	0,	15,	1,	46,	Gelora Bung Tomo, Surabaya
+29,	14,	3,	2024,	PSS Sleman,		0,	14,	0,	31,	Borneo FC Samarinda,	1,	14,	3,	69,	Manahan, Solo
+29,	15,	3,	2024,	Persikabo 1973,		1,	15,	0,	17,	Persib Bandung,		3,	15,	3,	54,	Kapten I Wayan Dipta, Gianyar
+29,	15,	3,	2024,	PS Barito Putera,	3,	14,	3,	40,	PSM Makassar,		1,	15,	0,	37,	Sultan Agung, Bantul
+29,	16,	3,	2024,	Persija Jakarta,	2,	15,	3,	38,	Persik Kediri,		0,	15,	0,	43,	Kapten I Wayan Dipta, Gianyar
+29,	16,	3,	2024,	Bhayangkara FC,		2,	15,	0,	19,	Dewa United FC,		3,	15,	3,	41,	STIK Jakarta, Jakarta Selatan
+29,	17,	3,	2024,	Rans Nusantara FC,	1,	15,	1,	34,	Bali United FC,		1,	14,	1,	49,	Sultan Agung, Bantul
+29,	17,	3,	2024,	PSIS Semarang,		0,	15,	0,	46,	Persis Solo,		2,	15,	3,	41,	Jatidiri, Semarang
+30,	27,	3,	2024,	Dewa United FC,		4,	15,	3,	44,	Persita Tangerang,	1,	15,	0,	31,	Indomilk Arena, Tangerang
+30,	27,	3,	2024,	Arema FC,		0,	16,	0,	31,	Persebaya Surabaya,	1,	16,	3,	39,	Kapten I Wayan Dipta, Gianyar
+30,	28,	3,	2024,	Persik Kediri,		5,	15,	3,	46,	Persikabo 1973,		2,	15,	0,	17,	Brawijaya, Kediri
+30,	28,	3,	2024,	Persib Bandung,		0,	15,	1,	55,	Bhayangkara FC,		0,	15,	1,	20,	Si Jalak Harupat, Bandung
+30,	29,	3,	2024,	PSM Makassar,		1,	15,	1,	38,	Borneo FC Samarinda,	1,	15,	1,	70,	Batakan, Balikpapan
+30,	29,	3,	2024,	PS Barito Putera,	0,	15,	1,	41,	PSIS Semarang,		0,	15,	1,	47,	Sultan Agung, Bantul
+30,	29,	3,	2024,	Madura United FC,	0,	15,	1,	47,	PSS Sleman,		0,	16,	1,	32,	Gelora Bangkalan, Bangkalan
+30,	30,	3,	2024,	Bali United FC,		1,	16,	3,	52,	Persija Jakarta,	0,	15,	0,	38,	Kapten I Wayan Dipta, Gianyar
+30,	30,	3,	2024,	Persis Solo,		2,	15,	3,	44,	Rans Nusantara FC,	0,	15,	0,	34,	Manahan, Solo
+31,	15,	4,	2024,	Persita Tangerang,	3,	16,	1,	32,	Persib Bandung,		3,	16,	1,	56,	Kapten I Wayan Dipta, Gianyar
+31,	15,	4,	2024,	PSS Sleman,		4,	15,	3,	35,	Arema FC,		1,	15,	0,	31,	Manahan, Solo
+31,	15,	4,	2024,	Persikabo 1973,		3,	16,	3,	20,	Bali United FC,		2,	15,	0,	52,	Sultan Agung, Bantul
+31,	16,	4,	2024,	Persebaya Surabaya,	0,	15,	0,	39,	Dewa United FC,		3,	16,	3,	47,	Gelora Bung Tomo, Surabaya
+31,	16,	4,	2024,	Bhayangkara FC,		7,	16,	0,	23,	Persik Kediri,		0,	16,	0,	46,	STIK Jakarta, Jakarta Selatan
+31,	16,	4,	2024,	PSM Makassar,		3,	16,	3,	41,	PSIS Semarang,		1,	16,	0,	47,	Batakan, Balikpapan
+31,	17,	4,	2024,	Borneo FC Samarinda,	0,	16,	0,	70,	Madura United FC,	4,	16,	3,	50,	Batakan, Balikpapan
+31,	17,	4,	2024,	Rans Nusantara FC,	1,	16,	1,	35,	PS Barito Putera,	1,	16,	1,	42,	Sultan Agung, Bantul
+31,	17,	4,	2024,	Persija Jakarta,	1,	16,	3,	41,	Persis Solo,		0,	16,	0,	44,	Gelora Bung Karno, Jakarta Pusat
+32,	20,	4,	2024,	Persik Kediri,		1,	16,	1,	48,	Persita Tangerang,	1,	16,	1,	33,	Brawijaya, Kediri
+32,	20,	4,	2024,	Persib Bandung,		3,	16,	3,	59,	Persebaya Surabaya,	1,	17,	0,	39,	Si Jalak Harupat, Bandung
+32,	20,	4,	2024,	PSS Sleman,		2,	16,	0,	36,	Dewa United FC,		3,	17,	3,	50,	Manahan, Solo
+32,	20,	4,	2024,	Bali United FC,		2,	17,	3,	58,	Bhayangkara FC,		1,	16,	0,	23,	Kapten I Wayan Dipta, Gianyar
+32,	21,	4,	2024,	Madura United FC,	2,	16,	3,	53,	PSM Makassar,		0,	16,	0,	41,	Gelora Bangkalan, Bangkalan
+32,	21,	4,	2024,	Borneo FC Samarinda,	1,	17,	0,	70,	Arema FC,		2,	16,	3,	34,	Batakan, Balikpapan
+32,	21,	4,	2024,	PS Barito Putera,	2,	16,	1,	43,	Persija Jakarta,	2,	16,	1,	42,	Sultan Agung, Bantul
+32,	22,	4,	2024,	Persis Solo,		2,	16,	3,	47,	Persikabo 1973,		1,	16,	0,	20,	Manahan, Solo
+32,	22,	4,	2024,	PSIS Semarang,		2,	16,	3,	50,	Rans Nusantara FC,	1,	16,	0,	35,	dr. H. Moch. Soebroto, Magelang
+33,	24,	4,	2024,	Persebaya Surabaya,	0,	16,	0,	39,	Bali United FC,		2,	16,	3,	58,	Gelora Bung Tomo, Surabaya
+33,	24,	4,	2024,	Persik Kediri,		4,	17,	1,	48,	PSS Sleman,		4,	17,	1,	36,	Brawijaya, Kediri
+33,	25,	4,	2024,	Dewa United FC,		2,	16,	1,	51,	Madura United FC,	2,	17,	1,	54,	Indomilk Arena, Tangerang
+33,	25,	4,	2024,	PS Barito Putera,	1,	17,	0,	43,	Bhayangkara FC,		5,	17,	3,	26,	Sultan Agung, Bantul
+33,	25,	4,	2024,	Arema FC,		3,	17,	3,	37,	PSM Makassar,		2,	17,	0,	41,	Kapten I Wayan Dipta, Gianyar
+33,	25,	4,	2024,	Persib Bandung,		2,	17,	3,	62,	Borneo FC Samarinda,	1,	16,	0,	70,	Si Jalak Harupat, Bandung
+33,	26,	4,	2024,	Persis Solo,		1,	17,	0,	47,	Persita Tangerang,	2,	17,	3,	36,	Manahan, Solo
+33,	26,	4,	2024,	PSIS Semarang,		3,	17,	3,	53,	Persikabo 1973,		0,	17,	0,	20,	dr. H. Moch. Soebroto, Magelang
+33,	26,	4,	2024,	Rans Nusantara FC,	0,	17,	0,	35,	Persija Jakarta,	1,	17,	3,	45,	Sultan Agung, Bantul
 #
 #
 #home total = total points (cumulative) earned in total for team in home column
