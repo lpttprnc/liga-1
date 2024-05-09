@@ -296,6 +296,15 @@ week,	day,	month,	year,	home,			hscore,	hmatch,	hpoint,	htotal,	away,			ascore,	
 33,	26,	4,	2024,	Persis Solo,		1,	17,	0,	47,	Persita Tangerang,	2,	17,	3,	36,	Manahan, Solo
 33,	26,	4,	2024,	PSIS Semarang,		3,	17,	3,	53,	Persikabo 1973,		0,	17,	0,	20,	dr. H. Moch. Soebroto, Magelang
 33,	26,	4,	2024,	Rans Nusantara FC,	0,	17,	0,	35,	Persija Jakarta,	1,	17,	3,	45,	Sultan Agung, Bantul
+34,	28,	4,	2024,	Persebaya Surabaya,	2,	17,	3,	42,	Persik Kediri,		1,	17,	0,	48,	Gelora Bung Tomo, Surabaya
+34,	29,	4,	2024,	Persikabo 1973,		3,	17,	0,	20,	PS Barito Putera,	4,	17,	3,	46,	Sultan Agung, Bantul
+34,	30,	4,	2024,	Persita Tangerang,	4,	17,	3,	39,	Bali United FC,		2,	17,	0,	58,	Indomilk Arena, Tangerang
+34,	30,	4,	2024,	Bhayangkara FC,		0,	17,	0,	26,	Persis Solo,		1,	17,	3,	50,	STIK Jakarta, Jakarta Selatan
+34,	30,	4,	2024,	Madura United FC,	0,	17,	1,	55,	Arema FC,		0,	17,	1,	38,	Gelora Bangkalan, Bangkalan
+34,	30,	4,	2024,	Dewa United FC,		2,	17,	3,	54,	Borneo FC Samarinda,	1,	17,	0,	70,	Kapten I Wayan Dipta, Gianyar
+34,	30,	4,	2024,	Persija Jakarta,	2,	17,	3,	48,	PSIS Semarang,		1,	17,	0,	53,	Gelora Bung Karno, Jakarta Pusat
+34,	30,	4,	2024,	PSS Sleman,		1,	17,	3,	39,	Persib Bandung,		0,	17,	0,	62,	Manahan, Solo
+34,	30,	4,	2024,	PSM Makassar,		3,	17,	3,	44,	Rans Nusantara FC,	2,	17,	0,	35,	Batakan, Balikpapan
 #
 #
 #home total = total points (cumulative) earned in total for team in home column
